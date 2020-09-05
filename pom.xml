@@ -18,6 +18,13 @@
         <module>/Chapter 1/HelloWorld</module>
         <module>/Chapter 2/datasource-demo</module>
         <module>/Chapter 2/declarative-transaction-demo</module>
+        <module>/Chapter 2/druid-demo</module>
+        <module>/Chapter 2/errorcode-demo</module>
+        <module>/Chapter 2/multi-datasource-demo</module>
+        <module>/Chapter 2/programmatic-transaction-demo</module>
+        <module>/Chapter 2/pure-spring-datasource-demo</module>
+        <module>/Chapter 2/simple-jdbc-demo</module>
+
 
     </modules>
     <properties>
